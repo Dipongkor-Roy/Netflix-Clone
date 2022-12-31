@@ -249,7 +249,7 @@ input[type="radio"]{
  }
  .email-signup{
     font-size: 12px;
-    padding: 10px 15px;
+    padding: 10px -1px;
  }
  .text-col,.img-col{
     flex-basis: 100%;
