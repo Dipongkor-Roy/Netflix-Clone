@@ -73,8 +73,9 @@ nav button{
     border-radius: 4px;
     display:flex;
     align-items: center;
+    justify-content: space-evenly ;
     margin-top: 30px;
-    overflow:hidden;
+    
 }
 .email-signup input{
     flex:1;
