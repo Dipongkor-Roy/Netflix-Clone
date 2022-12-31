@@ -174,7 +174,7 @@ input[type="radio"]{
     padding:0 20px;
     max-height: 0;
     overflow: hidden;
-    transition:max-height 0.5s ,padding 0.5s ;
+    transition: max-height 0.5s ,padding 0.5s ;
 }
 .accordion input[type="radio"]:checked +label + .content{
     max-height: 600px;
@@ -185,7 +185,7 @@ input[type="radio"]{
 }
 .faq .email-signup{
     max-width: 600px;
-    margin:20px auto 60px;  
+    margin: 20px auto 60px;  
 }
 .faq small{
     font-size: 13px;
